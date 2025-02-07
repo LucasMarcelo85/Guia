@@ -1,0 +1,17 @@
+{
+  "html-css-js": true,
+  "react": true,
+  "nextjs": false,
+  "material-tailwind": true,
+  "typescript": false,
+  "nodejs": false,
+  "nestjs": false,
+  "bancodados": true,
+  "autenticacao": false,
+  "testes": false,
+  "docker": true,
+  "hospedagem": false,
+  "reactnative": false,
+  "expo": true,
+  "firebase": false
+}
